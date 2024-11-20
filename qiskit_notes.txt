@@ -7,6 +7,12 @@ conda install python
 pip install "qiskit[visualization]" qiskit-ibm-runtime jupyter numpy pandas matplotlib
 
 pip install qiskit-aer  # This is essential for running simulations locally, as it provides the high-performance Qiskit simulator backend. With Aer, you can efficiently simulate QFT circuits.
+pip install qiskit-nature
+pip install qiskit-algorithms
+pip install pyscf
+
+
+
 
 
 
